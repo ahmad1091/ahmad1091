@@ -90,8 +90,7 @@
 <br/>
 
 ### ⚙️ &nbsp; GitHub Analytics <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad1091&show_icons=true&locale=en&layout=compact" alt="ahmad1091" /></p>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad1091&show_icons=true&locale=en&layout=compact" alt="ahmad1091" />
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad1091&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 
 
