@@ -9,9 +9,6 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif?raw=true" width="40px" />
   </a>
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad1091&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad1091" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad1091" alt="ahmad1091" /></a> </p>
 <br/>
 <br/>
 <a target="_blank">
