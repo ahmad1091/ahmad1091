@@ -10,9 +10,9 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on **Web scraping**
+- 🔭 I’m currently working on **DATA SCIENCE**
 
-- 🌱 I’m currently learning **Meta Django backend developer**
+- 🌱 I’m currently learning [CORNELL DATA SCIENCE](https://ecornell.cornell.edu/certificates/data-science-analytics/)
 
 - 💬 Ask me about **Data structures, Algorithms**
 
