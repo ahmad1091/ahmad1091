@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **DATA SCIENCE**
 
-- 🌱 I’m currently learning [CORNELL DATA SCIENCE](https://ecornell.cornell.edu/certificates/data-science-analytics/)
+- 🌱 I’m currently learning Data-science and AI.
 
 - 💬 Ask me about **Data structures, Algorithms**
 
